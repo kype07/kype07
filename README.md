@@ -1,12 +1,20 @@
-##👋 Hi, I'm Nicolò Sciuto, I am a student at the IIS Plana in Turin, attending the maintenance and technical assistance course
+## 👋 Hi, I'm Nicolò Sciuto, I am a student at the IIS Plana in Turin, attending the maintenance and technical assistance course
 
-👀 I’m interested in ...
+### 🌱I’m currently learning
+- HTML
+- CSS
+- JavaScript
+- python
+- mechanics
+- electronics
 
-• GitHub
-• HTML
-• CSS
-• JavaScript
-• Python
+### 👀 I’m interested in ...
+
+- GitHub
+- HTML
+- CSS
+- JavaScript
+- Python 
 
 <!--
 **kype07/kype07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
