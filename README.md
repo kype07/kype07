@@ -1,4 +1,4 @@
-👋 Hi, I'm Nicolò Sciuto, I'm a student at Plana in Turin
+##👋 Hi, I'm Nicolò Sciuto, I am a student at the IIS Plana in Turin, attending the maintenance and technical assistance course
 
 👀 I’m interested in ...
 
