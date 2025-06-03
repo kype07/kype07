@@ -1,4 +1,12 @@
-## Hi there 👋
+👋 Hi, I'm Nicolò Sciuto, I'm a student at Plana in Turin
+
+👀 I’m interested in ...
+
+• GitHub
+• HTML
+• CSS
+• JavaScript
+• Python
 
 <!--
 **kype07/kype07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
